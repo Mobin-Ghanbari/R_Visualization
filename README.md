@@ -11,6 +11,6 @@ Plot without a story to tell!
 (./1.png)
 
 Plot with a story to tell!
-![CS_02_2](./CS_02_01_2.png)
+![CS_02_2](./2.png)
 
 
